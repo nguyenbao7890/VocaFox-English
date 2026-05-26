@@ -1,0 +1,6 @@
+{
+  "name": "VocaFox",
+  "description": "Hệ thống số hóa giáo trình Tiếng Anh lớp 9 (chương trình mới) và luyện đề thi thử vào lớp 10 trực tuyến tích hợp Trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
